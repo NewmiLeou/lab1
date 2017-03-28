@@ -1,0 +1,43 @@
+Script started on 2017年03月28日 (週二) 15時17分26秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m  whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=newmi.leou@gmail.com
+user.name=NewmiLeou
+push.default=simple
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/<your github account>/lab1.git
+bash: your: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/<your github account>/lab1.git[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitN/lab1.gite/lab1.gitw/lab1.gitm/lab1.giti/lab1.gitL/lab1.gite/lab1.gito/lab1.gitu/lab1.git[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+fatal: unable to access 'https://github.com/NewmiLeou/lab1.git/': Could not resolve host: github.com
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/NewmiLeou/lab1.git<your github account>/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[K[1P whoami; pwdgit remote rm originclone https://github.com/pd2-ncku/2017-pd2-project-1-NewmiLeoou.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[Cremote rm origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclone https://github.com/pd2-ncku/2017-pd2-project-1-NewmiLeoou.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[Checkout[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pommitheckoutlone https://github.com/pd2-ncku/2017-pd2-project-1-NewmiLeoou.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[Cremote rm origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P whoami; pwdgit config -l[1P whoami; pwdgit remote rm origin[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kscript lab1.script
+Script started, file is lab1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=newmi.leou@gmail.com
+user.name=NewmiLeou
+push.default=simple
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m https://github.com/NewmiLeou/lab1.git
+bash: https://github.com/NewmiLeou/lab1.git: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/NewmiLeou/lab1.git
+Cloning into 'lab1'...
+fatal: unable to access 'https://github.com/NewmiLeou/lab1.git/': Could not resolve host: github.com
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/NewmiLeou/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m Script done, file is lab1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m cat lab1.script
+Script started on 2017年03月28日 (週二) 15時21分14秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=newmi.leou@gmail.com
+user.name=NewmiLe
